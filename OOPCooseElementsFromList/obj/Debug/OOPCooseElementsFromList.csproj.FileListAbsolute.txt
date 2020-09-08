@@ -1,0 +1,7 @@
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\bin\Debug\OOPCooseElementsFromList.exe.config
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\bin\Debug\OOPCooseElementsFromList.exe
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\bin\Debug\OOPCooseElementsFromList.pdb
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\obj\Debug\OOPCooseElementsFromList.csprojAssemblyReference.cache
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\obj\Debug\OOPCooseElementsFromList.csproj.CoreCompileInputs.cache
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\obj\Debug\OOPCooseElementsFromList.exe
+C:\Users\vorag\source\repos\OOPCooseElementsFromList\OOPCooseElementsFromList\obj\Debug\OOPCooseElementsFromList.pdb
